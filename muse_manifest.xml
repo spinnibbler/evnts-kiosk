@@ -1,0 +1,741 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="evnts.com" resolutions="1x" timestamp="1493946453703">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="xcel-energy-center.css" crc="4027671012" ref="xcel-energy-center"/>
+    <file name="payment.css" crc="3979661451" ref="payment"/>
+    <file name="target-field-event.css" crc="410092693" ref="target-field-event"/>
+    <file name="payment-success.css" crc="4165010798" ref="payment-success"/>
+    <file name="rivercentre-event.css" crc="3864740114" ref="rivercentre-event"/>
+    <file name="nearby.css" crc="4007847802" ref="nearby"/>
+    <file name="index.css" crc="419931259" ref="index"/>
+    <file name="xcel-energy-center-event.css" crc="50976784" ref="xcel-energy-center-event"/>
+    <file name="events.css" crc="379372707" ref="events"/>
+    <file name="first-ave-event.css" crc="4045261717" ref="first-ave-event"/>
+    <file name="target-field.css" crc="3972182107" ref="target-field"/>
+    <file name="first-ave.css" crc="4273402890" ref="first-ave"/>
+    <file name="venues.css" crc="3851357851" ref="venues"/>
+    <file name="check-out.css" crc="342063125" ref="check-out"/>
+    <file name="search.css" crc="4113328772" ref="search"/>
+    <file name="rivercentre.css" crc="3998434793" ref="rivercentre"/>
+    <file name="music-event-1.css" crc="4206975205" ref="music-event-1"/>
+    <file name="music.css" crc="4182374647" ref="music"/>
+    <file name="target-field-event-4.css" crc="520299081" ref="target-field-event-4"/>
+    <file name="target-field-event-3.css" crc="230463754" ref="target-field-event-3"/>
+    <file name="film.css" crc="221013933" ref="film"/>
+    <file name="xcel-energy-center-event-4.css" crc="2982179" ref="xcel-energy-center-event-4"/>
+    <file name="xcel-energy-center-event-3.css" crc="478791721" ref="xcel-energy-center-event-3"/>
+    <file name="xcel-energy-center-event-2.css" crc="4034557229" ref="xcel-energy-center-event-2"/>
+    <file name="target-field-event-2.css" crc="424986918" ref="target-field-event-2"/>
+    <file name="rivercentre-event-4.css" crc="3955156029" ref="rivercentre-event-4"/>
+    <file name="first-ave-event-3.css" crc="3967681943" ref="first-ave-event-3"/>
+    <file name="rivercentre-event-3.css" crc="4200173575" ref="rivercentre-event-3"/>
+    <file name="first-ave-event-4.css" crc="3811218353" ref="first-ave-event-4"/>
+    <file name="rivercentre-event-2.css" crc="3862104160" ref="rivercentre-event-2"/>
+    <file name="first-ave-event-2.css" crc="3832251901" ref="first-ave-event-2"/>
+    <file name="sports.css" crc="3788920549" ref="sports"/>
+    <file name="specialty.css" crc="3955270617" ref="specialty"/>
+    <file name="theater.css" crc="257983567" ref="theater"/>
+    <file name="sports-event-1.css" crc="4081375497" ref="sports-event-1"/>
+    <file name="music-event-2.css" crc="4022633050" ref="music-event-2"/>
+    <file name="error.css" crc="4053483927" ref="error"/>
+    <file name="home.css" crc="384155978" ref="home"/>
+  </folder>
+  <folder name="fonts">
+    <file name="cooperhewitt-heavy-webfont.woff" crc="512508620"/>
+    <file name="cooperhewitt-heavy-webfont.eot" crc="4143229365"/>
+    <file name="cooperhewitt-heavy-webfont.svg" crc="3877300287"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:first-ave:target-field:venues:events:first-ave-event:rivercentre:xcel-energy-center:check-out:rivercentre-event:target-field-event:xcel-energy-center-event:nearby:search:payment:payment-success:first-ave-event-2:first-ave-event-3:first-ave-event-4:rivercentre-event-2:rivercentre-event-3:rivercentre-event-4:target-field-event-2:target-field-event-3:target-field-event-4:music:sports:film:theater:specialty:xcel-energy-center-event-2:xcel-energy-center-event-3:xcel-energy-center-event-4:music-event-2:music-event-1:sports-event-1:error:home"/>
+    <file name="museutils.js" crc="4232573551" ref="index:first-ave:target-field:venues:events:first-ave-event:rivercentre:xcel-energy-center:check-out:rivercentre-event:target-field-event:xcel-energy-center-event:nearby:search:payment:payment-success:first-ave-event-2:first-ave-event-3:first-ave-event-4:rivercentre-event-2:rivercentre-event-3:rivercentre-event-4:target-field-event-2:target-field-event-3:target-field-event-4:music:sports:film:theater:specialty:xcel-energy-center-event-2:xcel-energy-center-event-3:xcel-energy-center-event-4:music-event-2:music-event-1:sports-event-1:error:home"/>
+    <file name="whatinput.js" crc="86476730" ref="index:first-ave:target-field:venues:events:first-ave-event:rivercentre:xcel-energy-center:check-out:rivercentre-event:target-field-event:xcel-energy-center-event:nearby:search:payment:payment-success:first-ave-event-2:first-ave-event-3:first-ave-event-4:rivercentre-event-2:rivercentre-event-3:rivercentre-event-4:target-field-event-2:target-field-event-3:target-field-event-4:music:sports:film:theater:specialty:xcel-energy-center-event-2:xcel-energy-center-event-3:xcel-energy-center-event-4:music-event-2:music-event-1:sports-event-1:error:home"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:first-ave:target-field:venues:events:first-ave-event:rivercentre:xcel-energy-center:check-out:rivercentre-event:target-field-event:xcel-energy-center-event:nearby:search:payment:payment-success:first-ave-event-2:first-ave-event-3:first-ave-event-4:rivercentre-event-2:rivercentre-event-3:rivercentre-event-4:target-field-event-2:target-field-event-3:target-field-event-4:music:sports:film:theater:specialty:xcel-energy-center-event-2:xcel-energy-center-event-3:xcel-energy-center-event-4:music-event-2:music-event-1:sports-event-1:error:home"/>
+    <file name="require.js" crc="4234670167" ref="index:first-ave:target-field:venues:events:first-ave-event:rivercentre:xcel-energy-center:check-out:rivercentre-event:target-field-event:xcel-energy-center-event:nearby:search:payment:payment-success:first-ave-event-2:first-ave-event-3:first-ave-event-4:rivercentre-event-2:rivercentre-event-3:rivercentre-event-4:target-field-event-2:target-field-event-3:target-field-event-4:music:sports:film:theater:specialty:xcel-energy-center-event-2:xcel-energy-center-event-3:xcel-energy-center-event-4:music-event-2:music-event-1:sports-event-1:error:home"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u94-4.png" crc="3919261813" ref="home"/>
+    <file name="blank.gif" crc="4208392903" ref="first-ave:target-field:first-ave-event:rivercentre:xcel-energy-center:check-out:rivercentre-event:target-field-event:xcel-energy-center-event:first-ave-event-2:first-ave-event-3:first-ave-event-4:rivercentre-event-2:rivercentre-event-3:rivercentre-event-4:target-field-event-2:target-field-event-3:target-field-event-4:music:sports:xcel-energy-center-event-2:xcel-energy-center-event-3:xcel-energy-center-event-4:music-event-2:music-event-1:sports-event-1:home:nearby"/>
+    <file name="u224-4.png" crc="361736338" ref="home"/>
+    <file name="u227-4.png" crc="215349949" ref="home"/>
+    <file name="u232-4.png" crc="3907290807" ref="home"/>
+    <file name="u235-4.png" crc="3957059361" ref="home"/>
+    <file name="u368-4.png" crc="4172863793" ref="first-ave"/>
+    <file name="u369-4.png" crc="4162486792" ref="first-ave"/>
+    <file name="u374-4.png" crc="4059116201" ref="first-ave"/>
+    <file name="u383-4.png" crc="381501386" ref="first-ave"/>
+    <file name="u386-4.png" crc="168211242" ref="first-ave"/>
+    <file name="firstave_edited.jpg" crc="160842001" seo="true" ref="first-ave:first-ave-event:first-ave-event-2:first-ave-event-3:first-ave-event-4:music-event-2">
+      <caption webpage="xcel-energy-center-event" alt=""/>
+      <caption webpage="first-ave-event" alt=""/>
+      <caption webpage="target-field-event" alt=""/>
+      <caption webpage="first-ave-event-4" alt=""/>
+      <caption webpage="first-ave-event-2" alt=""/>
+      <caption webpage="first-ave" alt=""/>
+      <caption webpage="first-ave-event-3" alt=""/>
+      <caption webpage="music-event-2" alt=""/>
+      <caption webpage="rivercentre-event" alt=""/>
+    </file>
+    <file name="u405-4.png" crc="3830822453" ref="first-ave"/>
+    <file name="u409-4.png" crc="310758743" ref="first-ave"/>
+    <file name="u441-4.png" crc="193954742" ref="first-ave"/>
+    <file name="u417-4.png" crc="3925029025" ref="first-ave"/>
+    <file name="u424-4.png" crc="391090460" ref="first-ave"/>
+    <file name="u427-4.png" crc="230648697" ref="first-ave"/>
+    <file name="u433.png" crc="4213028434" ref="first-ave"/>
+    <file name="u433-r.png" crc="4213028434" ref="first-ave"/>
+    <file name="u464-4.png" crc="193954742" ref="first-ave"/>
+    <file name="u461-4.png" crc="3832489471" ref="first-ave"/>
+    <file name="u449-4.png" crc="275060196" ref="first-ave"/>
+    <file name="u446-4.png" crc="4027351486" ref="first-ave"/>
+    <file name="u456.png" crc="4213028434" ref="first-ave"/>
+    <file name="u456-r.png" crc="4213028434" ref="first-ave"/>
+    <file name="u485-4.png" crc="193954742" ref="first-ave"/>
+    <file name="u482-4.png" crc="408209478" ref="first-ave"/>
+    <file name="u470-4.png" crc="474023607" ref="first-ave"/>
+    <file name="u467-4.png" crc="4169971897" ref="first-ave"/>
+    <file name="u477.png" crc="4213028434" ref="first-ave"/>
+    <file name="u477-r.png" crc="4213028434" ref="first-ave"/>
+    <file name="u509-4.png" crc="193954742" ref="first-ave"/>
+    <file name="u506-4.png" crc="444617375" ref="first-ave"/>
+    <file name="u500-4.png" crc="4293137589" ref="first-ave"/>
+    <file name="u503-4.png" crc="257491391" ref="first-ave"/>
+    <file name="u495.png" crc="4213028434" ref="first-ave"/>
+    <file name="u495-r.png" crc="4213028434" ref="first-ave"/>
+    <file name="u944-4.png" crc="4172863793" ref="target-field"/>
+    <file name="u945-4.png" crc="4162486792" ref="target-field"/>
+    <file name="u946-4.png" crc="4059116201" ref="target-field"/>
+    <file name="u950-4.png" crc="381501386" ref="target-field"/>
+    <file name="u951-4.png" crc="168211242" ref="target-field"/>
+    <file name="targetfield-crop-u941.jpg" crc="4039597463" seo="true" ref="target-field">
+      <caption webpage="target-field" alt=""/>
+    </file>
+    <file name="u953-4.png" crc="3865253046" ref="target-field"/>
+    <file name="u954-4.png" crc="427062017" ref="target-field"/>
+    <file name="u955-4.png" crc="420888678" ref="target-field"/>
+    <file name="u959-4.png" crc="3832489471" ref="target-field"/>
+    <file name="u967-4.png" crc="4113787914" ref="target-field"/>
+    <file name="u971-4.png" crc="3885103795" ref="target-field"/>
+    <file name="u976.png" crc="4213028434" ref="target-field"/>
+    <file name="u976-r.png" crc="4213028434" ref="target-field"/>
+    <file name="u956-4.png" crc="420888678" ref="target-field"/>
+    <file name="u960-4.png" crc="4106366468" ref="target-field"/>
+    <file name="u968-4.png" crc="390419990" ref="target-field"/>
+    <file name="u972-4.png" crc="3885103795" ref="target-field"/>
+    <file name="u978.png" crc="4213028434" ref="target-field"/>
+    <file name="u978-r.png" crc="4213028434" ref="target-field"/>
+    <file name="u957-4.png" crc="420888678" ref="target-field"/>
+    <file name="u961-4.png" crc="4106366468" ref="target-field"/>
+    <file name="u969-4.png" crc="284965467" ref="target-field"/>
+    <file name="u973-4.png" crc="3885103795" ref="target-field"/>
+    <file name="u980.png" crc="4213028434" ref="target-field"/>
+    <file name="u980-r.png" crc="4213028434" ref="target-field"/>
+    <file name="u958-4.png" crc="4097603278" ref="target-field"/>
+    <file name="u962-4.png" crc="359648187" ref="target-field"/>
+    <file name="u970-4.png" crc="4260358254" ref="target-field"/>
+    <file name="u974-4.png" crc="363143731" ref="target-field"/>
+    <file name="u982.png" crc="4213028434" ref="target-field"/>
+    <file name="u982-r.png" crc="4213028434" ref="target-field"/>
+    <file name="u1085-4.png" crc="4172863793" ref="venues"/>
+    <file name="u1086-4.png" crc="4162486792" ref="venues"/>
+    <file name="u1087-4.png" crc="4059116201" ref="venues"/>
+    <file name="u1090-4.png" crc="381501386" ref="venues"/>
+    <file name="u1091-4.png" crc="168211242" ref="venues"/>
+    <file name="music_tab_2.jpg" crc="321330481" seo="true" ref="venues:check-out:payment:payment-success:music:sports:film:theater:specialty:error">
+      <caption webpage="payment-success" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="venues" alt=""/>
+      <caption webpage="sports" alt=""/>
+      <caption webpage="error" alt=""/>
+      <caption webpage="payment" alt=""/>
+      <caption webpage="specialty" alt=""/>
+      <caption webpage="theater" alt=""/>
+      <caption webpage="check-out" alt=""/>
+      <caption webpage="film" alt=""/>
+    </file>
+    <file name="u1160-4.png" crc="38297337" ref="venues"/>
+    <file name="u1473-4.png" crc="344789158" ref="venues"/>
+    <file name="u1479-4.png" crc="3916670181" ref="venues"/>
+    <file name="u1485-4.png" crc="45271480" ref="venues"/>
+    <file name="u1215-4.png" crc="4172863793" ref="events"/>
+    <file name="u1208-4.png" crc="4162486792" ref="events"/>
+    <file name="u1216-4.png" crc="3939321007" ref="events"/>
+    <file name="u1222-4.png" crc="381501386" ref="events"/>
+    <file name="u1220-4.png" crc="168211242" ref="events"/>
+    <file name="music_tab.jpg" crc="3801786509" seo="true" ref="events:search">
+      <caption webpage="events" alt=""/>
+      <caption webpage="search" alt=""/>
+      <caption webpage="nearby" alt=""/>
+    </file>
+    <file name="u1217-4.png" crc="206582814" ref="events"/>
+    <file name="u1210-4.png" crc="3802006550" ref="events"/>
+    <file name="u1205-4.png" crc="3821757822" ref="events"/>
+    <file name="u1212-4.png" crc="28773386" ref="events"/>
+    <file name="u1226-4.png" crc="4160557780" ref="events"/>
+    <file name="u1270-4.png" crc="4172863793" ref="first-ave-event"/>
+    <file name="u1236-4.png" crc="4162486792" ref="first-ave-event"/>
+    <file name="u1242-4.png" crc="363294367" ref="first-ave-event"/>
+    <file name="u1248-4.png" crc="381501386" ref="first-ave-event"/>
+    <file name="u1274-4.png" crc="168211242" ref="first-ave-event"/>
+    <file name="u1273-4.png" crc="4025255620" ref="first-ave-event"/>
+    <file name="u1238-4.png" crc="372682821" ref="first-ave-event"/>
+    <file name="u1266-4.png" crc="4041071132" ref="first-ave-event"/>
+    <file name="u1268-4.png" crc="193954742" ref="first-ave-event"/>
+    <file name="u1252-4.png" crc="3925029025" ref="first-ave-event"/>
+    <file name="u1272-4.png" crc="3969011366" ref="first-ave-event"/>
+    <file name="u1261.png" crc="3966958725" ref="first-ave-event"/>
+    <file name="u1261-r.png" crc="3966958725" ref="first-ave-event"/>
+    <file name="u1384-4.png" crc="4172863793" ref="rivercentre"/>
+    <file name="u1350-4.png" crc="4162486792" ref="rivercentre"/>
+    <file name="u1356-4.png" crc="4059116201" ref="rivercentre"/>
+    <file name="u1362-4.png" crc="381501386" ref="rivercentre"/>
+    <file name="u1388-4.png" crc="168211242" ref="rivercentre"/>
+    <file name="rivercenter.jpg" crc="515567468" seo="true" ref="rivercentre:rivercentre-event:rivercentre-event-2:rivercentre-event-3:rivercentre-event-4">
+      <caption webpage="rivercentre-event" alt=""/>
+      <caption webpage="rivercentre-event-3" alt=""/>
+      <caption webpage="rivercentre-event-4" alt=""/>
+      <caption webpage="rivercentre" alt=""/>
+      <caption webpage="rivercentre-event-2" alt=""/>
+    </file>
+    <file name="u1387-4.png" crc="4041259502" ref="rivercentre"/>
+    <file name="u1352-4.png" crc="497051752" ref="rivercentre"/>
+    <file name="u1382-4.png" crc="308536078" ref="rivercentre"/>
+    <file name="u1366-4.png" crc="30673237" ref="rivercentre"/>
+    <file name="u1380-4.png" crc="60796514" ref="rivercentre"/>
+    <file name="u1386-4.png" crc="3768756206" ref="rivercentre"/>
+    <file name="u1375.png" crc="4213028434" ref="rivercentre"/>
+    <file name="u1375-r.png" crc="4213028434" ref="rivercentre"/>
+    <file name="u1354-4.png" crc="308536078" ref="rivercentre"/>
+    <file name="u1381-4.png" crc="30673237" ref="rivercentre"/>
+    <file name="u1385-4.png" crc="4080461218" ref="rivercentre"/>
+    <file name="u1368-4.png" crc="4276803915" ref="rivercentre"/>
+    <file name="u1358.png" crc="4213028434" ref="rivercentre"/>
+    <file name="u1358-r.png" crc="4213028434" ref="rivercentre"/>
+    <file name="u1379-4.png" crc="308536078" ref="rivercentre"/>
+    <file name="u1365-4.png" crc="408209478" ref="rivercentre"/>
+    <file name="u1378-4.png" crc="4162751241" ref="rivercentre"/>
+    <file name="u1372-4.png" crc="3859542671" ref="rivercentre"/>
+    <file name="u1377.png" crc="4213028434" ref="rivercentre"/>
+    <file name="u1377-r.png" crc="4213028434" ref="rivercentre"/>
+    <file name="u1361-4.png" crc="222799909" ref="rivercentre"/>
+    <file name="u1367-4.png" crc="4159866449" ref="rivercentre"/>
+    <file name="u1351-4.png" crc="3898808709" ref="rivercentre"/>
+    <file name="u1369-4.png" crc="431216795" ref="rivercentre"/>
+    <file name="u1390.png" crc="4213028434" ref="rivercentre"/>
+    <file name="u1390-r.png" crc="4213028434" ref="rivercentre"/>
+    <file name="u1506-4.png" crc="4172863793" ref="xcel-energy-center"/>
+    <file name="u1517-4.png" crc="4162486792" ref="xcel-energy-center"/>
+    <file name="u1530-4.png" crc="4059116201" ref="xcel-energy-center"/>
+    <file name="u1514-4.png" crc="381501386" ref="xcel-energy-center"/>
+    <file name="u1522-4.png" crc="168211242" ref="xcel-energy-center"/>
+    <file name="xcel.jpg" crc="201293187" seo="true" ref="xcel-energy-center:sports-event-1">
+      <caption webpage="xcel-energy-center-event" alt=""/>
+      <caption webpage="xcel-energy-center-event-4" alt=""/>
+      <caption webpage="xcel-energy-center" alt=""/>
+      <caption webpage="sports-event-1" alt=""/>
+      <caption webpage="music-event-1" alt=""/>
+      <caption webpage="xcel-energy-center-event-3" alt=""/>
+      <caption webpage="xcel-energy-center-event-2" alt=""/>
+    </file>
+    <file name="u1520-4.png" crc="4172298787" ref="xcel-energy-center"/>
+    <file name="u1499-4.png" crc="4010676415" ref="xcel-energy-center"/>
+    <file name="u1504-4.png" crc="308536078" ref="xcel-energy-center"/>
+    <file name="u1502-4.png" crc="412371841" ref="xcel-energy-center"/>
+    <file name="u1507-4.png" crc="4083390742" ref="xcel-energy-center"/>
+    <file name="u1498-4.png" crc="3859542671" ref="xcel-energy-center"/>
+    <file name="u1539.png" crc="4213028434" ref="xcel-energy-center"/>
+    <file name="u1539-r.png" crc="4213028434" ref="xcel-energy-center"/>
+    <file name="u1515-4.png" crc="308536078" ref="xcel-energy-center"/>
+    <file name="u1511-4.png" crc="3811588326" ref="xcel-energy-center"/>
+    <file name="u1518-4.png" crc="3900430146" ref="xcel-energy-center"/>
+    <file name="u1505-4.png" crc="4244596045" ref="xcel-energy-center"/>
+    <file name="u1513.png" crc="4213028434" ref="xcel-energy-center"/>
+    <file name="u1513-r.png" crc="4213028434" ref="xcel-energy-center"/>
+    <file name="u1523-4.png" crc="193954742" ref="xcel-energy-center"/>
+    <file name="u1521-4.png" crc="150189136" ref="xcel-energy-center"/>
+    <file name="u1528-4.png" crc="4012920065" ref="xcel-energy-center"/>
+    <file name="u1516-4.png" crc="3859542671" ref="xcel-energy-center"/>
+    <file name="u1535.png" crc="4213028434" ref="xcel-energy-center"/>
+    <file name="u1535-r.png" crc="4213028434" ref="xcel-energy-center"/>
+    <file name="u1537-4.png" crc="193954742" ref="xcel-energy-center"/>
+    <file name="u1532-4.png" crc="273827824" ref="xcel-energy-center"/>
+    <file name="u1541-4.png" crc="153252112" ref="xcel-energy-center"/>
+    <file name="u1526-4.png" crc="3859542671" ref="xcel-energy-center"/>
+    <file name="u1510.png" crc="4213028434" ref="xcel-energy-center"/>
+    <file name="u1510-r.png" crc="4213028434" ref="xcel-energy-center"/>
+    <file name="u1636-4.png" crc="4172863793" ref="check-out"/>
+    <file name="u1645-4.png" crc="4162486792" ref="check-out"/>
+    <file name="u1627-4.png" crc="168211242" ref="check-out"/>
+    <file name="u1629-4.png" crc="3841229857" ref="check-out"/>
+    <file name="u1973-4.png" crc="410736610" ref="check-out"/>
+    <file name="u1976-4.png" crc="3878757954" ref="check-out"/>
+    <file name="u1979-4.png" crc="428474783" ref="check-out"/>
+    <file name="u1984-4.png" crc="216475798" ref="check-out"/>
+    <file name="u1987-8.png" crc="113120944" ref="check-out"/>
+    <file name="u1991.png" crc="4136838781" ref="check-out"/>
+    <file name="u1991-r.png" crc="4136838781" ref="check-out"/>
+    <file name="u1999-4.png" crc="470713515" ref="check-out"/>
+    <file name="u2002-4.png" crc="3773772746" ref="check-out"/>
+    <file name="u2005-4.png" crc="444656132" ref="check-out"/>
+    <file name="u1647.png" crc="3966958725" ref="check-out"/>
+    <file name="u1647-r.png" crc="3966958725" ref="check-out"/>
+    <file name="u1715-4.png" crc="4172863793" ref="rivercentre-event"/>
+    <file name="u1721-4.png" crc="4162486792" ref="rivercentre-event"/>
+    <file name="u1716-4.png" crc="363294367" ref="rivercentre-event"/>
+    <file name="u1727-4.png" crc="381501386" ref="rivercentre-event"/>
+    <file name="u1708-4.png" crc="168211242" ref="rivercentre-event"/>
+    <file name="u1718-4.png" crc="344537220" ref="rivercentre-event"/>
+    <file name="u1725-4.png" crc="3797432372" ref="rivercentre-event"/>
+    <file name="u1720-4.png" crc="139370470" ref="rivercentre-event"/>
+    <file name="u1709-4.png" crc="308536078" ref="rivercentre-event"/>
+    <file name="u1719-4.png" crc="30673237" ref="rivercentre-event"/>
+    <file name="u1712-4.png" crc="3771239852" ref="rivercentre-event"/>
+    <file name="u1711.png" crc="3966958725" ref="rivercentre-event"/>
+    <file name="u1711-r.png" crc="3966958725" ref="rivercentre-event"/>
+    <file name="u1742-4.png" crc="4172863793" ref="target-field-event"/>
+    <file name="u1750-4.png" crc="4162486792" ref="target-field-event"/>
+    <file name="u1744-4.png" crc="363294367" ref="target-field-event"/>
+    <file name="u1745-4.png" crc="381501386" ref="target-field-event"/>
+    <file name="u1755-4.png" crc="168211242" ref="target-field-event"/>
+    <file name="u1743-4.png" crc="264592201" ref="target-field-event"/>
+    <file name="u1754-4.png" crc="372682821" ref="target-field-event"/>
+    <file name="u1737-4.png" crc="299934860" ref="target-field-event"/>
+    <file name="u1753-4.png" crc="193954742" ref="target-field-event"/>
+    <file name="u1741-4.png" crc="3832489471" ref="target-field-event"/>
+    <file name="u1740.png" crc="3966958725" ref="target-field-event"/>
+    <file name="u1740-r.png" crc="3966958725" ref="target-field-event"/>
+    <file name="u1836-4.png" crc="4172863793" ref="xcel-energy-center-event"/>
+    <file name="u1831-4.png" crc="4162486792" ref="xcel-energy-center-event"/>
+    <file name="u1826-4.png" crc="363294367" ref="xcel-energy-center-event"/>
+    <file name="u1839-4.png" crc="381501386" ref="xcel-energy-center-event"/>
+    <file name="u1827-4.png" crc="168211242" ref="xcel-energy-center-event"/>
+    <file name="u1819-4.png" crc="402485983" ref="xcel-energy-center-event"/>
+    <file name="u1825-4.png" crc="4240538575" ref="xcel-energy-center-event"/>
+    <file name="u1821-4.png" crc="236595709" ref="xcel-energy-center-event"/>
+    <file name="u1820-4.png" crc="308536078" ref="xcel-energy-center-event"/>
+    <file name="u1828-4.png" crc="412371841" ref="xcel-energy-center-event"/>
+    <file name="u1834.png" crc="3966958725" ref="xcel-energy-center-event"/>
+    <file name="u1834-r.png" crc="3966958725" ref="xcel-energy-center-event"/>
+    <file name="u1886-4.png" crc="4172863793" ref="nearby"/>
+    <file name="u1887-4.png" crc="4162486792" ref="nearby"/>
+    <file name="u1890-4.png" crc="145952327" ref="nearby"/>
+    <file name="u1885-4.png" crc="381501386" ref="nearby"/>
+    <file name="u1878-4.png" crc="168211242" ref="nearby"/>
+    <file name="u1942-4.png" crc="4172863793" ref="search"/>
+    <file name="u1932-4.png" crc="4162486792" ref="search"/>
+    <file name="u1941-4.png" crc="433407046" ref="search"/>
+    <file name="u1938-4.png" crc="381501386" ref="search"/>
+    <file name="u1944-4.png" crc="168211242" ref="search"/>
+    <file name="u2056-4.png" crc="4172863793" ref="payment"/>
+    <file name="u2057-4.png" crc="4162486792" ref="payment"/>
+    <file name="u2058-4.png" crc="4013479536" ref="payment"/>
+    <file name="u2062-4.png" crc="168211242" ref="payment"/>
+    <file name="u2068-4.png" crc="3841229857" ref="payment"/>
+    <file name="u2071-4.png" crc="32359610" ref="payment"/>
+    <file name="u2078-4.png" crc="324157571" ref="payment"/>
+    <file name="u2173-4.png" crc="4172863793" ref="payment-success"/>
+    <file name="u2181-4.png" crc="4162486792" ref="payment-success"/>
+    <file name="u2179-4.png" crc="168211242" ref="payment-success"/>
+    <file name="u2183-4.png" crc="3841229857" ref="payment-success"/>
+    <file name="ic_check_circle_48pt_3x.png" crc="4169871011" seo="true" ref="payment-success">
+      <caption webpage="payment-success" alt=""/>
+    </file>
+    <file name="u2170-4.png" crc="4206203064" ref="payment-success"/>
+    <file name="u2644-4.png" crc="3778729766" ref="home"/>
+    <file name="u2234-6.png" crc="70206029" ref="first-ave-event"/>
+    <file name="u2463-4.png" crc="165841430" ref="rivercentre-event"/>
+    <file name="targetfield-crop-u1747.jpg" crc="154531230" seo="true" ref="target-field-event">
+      <caption webpage="target-field-event" alt=""/>
+    </file>
+    <file name="u1749-6.png" crc="4113216980" ref="target-field-event"/>
+    <file name="ic_search_48pt_3x.png" crc="167899843" seo="true" ref="search">
+      <caption webpage="search" alt=""/>
+    </file>
+    <file name="u2288-4.png" crc="4172863793" ref="first-ave-event-2"/>
+    <file name="u2276-4.png" crc="4162486792" ref="first-ave-event-2"/>
+    <file name="u2274-4.png" crc="363294367" ref="first-ave-event-2"/>
+    <file name="u2284-4.png" crc="381501386" ref="first-ave-event-2"/>
+    <file name="u2287-4.png" crc="168211242" ref="first-ave-event-2"/>
+    <file name="u2283-4.png" crc="4025255620" ref="first-ave-event-2"/>
+    <file name="u2281-4.png" crc="372682821" ref="first-ave-event-2"/>
+    <file name="u2277-4.png" crc="4246506895" ref="first-ave-event-2"/>
+    <file name="u2285-4.png" crc="193954742" ref="first-ave-event-2"/>
+    <file name="u2280-4.png" crc="3832489471" ref="first-ave-event-2"/>
+    <file name="u2278-4.png" crc="4130726530" ref="first-ave-event-2"/>
+    <file name="u2273-6.png" crc="13306570" ref="first-ave-event-2"/>
+    <file name="u2269.png" crc="3966958725" ref="first-ave-event-2"/>
+    <file name="u2269-r.png" crc="3966958725" ref="first-ave-event-2"/>
+    <file name="u2341-4.png" crc="4172863793" ref="first-ave-event-3"/>
+    <file name="u2329-4.png" crc="4162486792" ref="first-ave-event-3"/>
+    <file name="u2344-4.png" crc="363294367" ref="first-ave-event-3"/>
+    <file name="u2343-4.png" crc="381501386" ref="first-ave-event-3"/>
+    <file name="u2342-4.png" crc="168211242" ref="first-ave-event-3"/>
+    <file name="u2337-4.png" crc="4025255620" ref="first-ave-event-3"/>
+    <file name="u2340-4.png" crc="372682821" ref="first-ave-event-3"/>
+    <file name="u2331-4.png" crc="4213382406" ref="first-ave-event-3"/>
+    <file name="u2332-4.png" crc="193954742" ref="first-ave-event-3"/>
+    <file name="u2336-4.png" crc="408209478" ref="first-ave-event-3"/>
+    <file name="u2330-4.png" crc="445474154" ref="first-ave-event-3"/>
+    <file name="u2326-8.png" crc="3832225866" ref="first-ave-event-3"/>
+    <file name="u2339.png" crc="3966958725" ref="first-ave-event-3"/>
+    <file name="u2339-r.png" crc="3966958725" ref="first-ave-event-3"/>
+    <file name="u2365-4.png" crc="4172863793" ref="first-ave-event-4"/>
+    <file name="u2376-4.png" crc="4162486792" ref="first-ave-event-4"/>
+    <file name="u2373-4.png" crc="363294367" ref="first-ave-event-4"/>
+    <file name="u2361-4.png" crc="381501386" ref="first-ave-event-4"/>
+    <file name="u2362-4.png" crc="168211242" ref="first-ave-event-4"/>
+    <file name="u2359-4.png" crc="4025255620" ref="first-ave-event-4"/>
+    <file name="u2363-4.png" crc="372682821" ref="first-ave-event-4"/>
+    <file name="u2375-4.png" crc="399964873" ref="first-ave-event-4"/>
+    <file name="u2368-4.png" crc="193954742" ref="first-ave-event-4"/>
+    <file name="u2371-4.png" crc="408209478" ref="first-ave-event-4"/>
+    <file name="u2372-4.png" crc="3974811592" ref="first-ave-event-4"/>
+    <file name="u2360-4.png" crc="134559247" ref="first-ave-event-4"/>
+    <file name="u2367.png" crc="3966958725" ref="first-ave-event-4"/>
+    <file name="u2367-r.png" crc="3966958725" ref="first-ave-event-4"/>
+    <file name="u2480-4.png" crc="4172863793" ref="rivercentre-event-2"/>
+    <file name="u2496-4.png" crc="4162486792" ref="rivercentre-event-2"/>
+    <file name="u2491-4.png" crc="363294367" ref="rivercentre-event-2"/>
+    <file name="u2486-4.png" crc="381501386" ref="rivercentre-event-2"/>
+    <file name="u2484-4.png" crc="168211242" ref="rivercentre-event-2"/>
+    <file name="u2498-4.png" crc="344537220" ref="rivercentre-event-2"/>
+    <file name="u2479-4.png" crc="3797432372" ref="rivercentre-event-2"/>
+    <file name="u2485-4.png" crc="160998172" ref="rivercentre-event-2"/>
+    <file name="u2477-4.png" crc="308536078" ref="rivercentre-event-2"/>
+    <file name="u2487-4.png" crc="30673237" ref="rivercentre-event-2"/>
+    <file name="u2497-4.png" crc="3825571190" ref="rivercentre-event-2"/>
+    <file name="u2495-4.png" crc="3874815885" ref="rivercentre-event-2"/>
+    <file name="u2489.png" crc="3966958725" ref="rivercentre-event-2"/>
+    <file name="u2489-r.png" crc="3966958725" ref="rivercentre-event-2"/>
+    <file name="u2562-4.png" crc="4172863793" ref="rivercentre-event-3"/>
+    <file name="u2577-4.png" crc="4162486792" ref="rivercentre-event-3"/>
+    <file name="u2583-4.png" crc="363294367" ref="rivercentre-event-3"/>
+    <file name="u2581-4.png" crc="381501386" ref="rivercentre-event-3"/>
+    <file name="u2575-4.png" crc="168211242" ref="rivercentre-event-3"/>
+    <file name="u2574-4.png" crc="344537220" ref="rivercentre-event-3"/>
+    <file name="u2571-4.png" crc="3797432372" ref="rivercentre-event-3"/>
+    <file name="u2569-4.png" crc="160998172" ref="rivercentre-event-3"/>
+    <file name="u2570-4.png" crc="308536078" ref="rivercentre-event-3"/>
+    <file name="u2579-4.png" crc="408209478" ref="rivercentre-event-3"/>
+    <file name="u2582-4.png" crc="3825571190" ref="rivercentre-event-3"/>
+    <file name="u2580-4.png" crc="3874815885" ref="rivercentre-event-3"/>
+    <file name="u2564.png" crc="3966958725" ref="rivercentre-event-3"/>
+    <file name="u2564-r.png" crc="3966958725" ref="rivercentre-event-3"/>
+    <file name="u2605-4.png" crc="4172863793" ref="rivercentre-event-4"/>
+    <file name="u2606-4.png" crc="4162486792" ref="rivercentre-event-4"/>
+    <file name="u2595-4.png" crc="363294367" ref="rivercentre-event-4"/>
+    <file name="u2593-4.png" crc="381501386" ref="rivercentre-event-4"/>
+    <file name="u2603-4.png" crc="168211242" ref="rivercentre-event-4"/>
+    <file name="u2597-4.png" crc="344537220" ref="rivercentre-event-4"/>
+    <file name="u2599-4.png" crc="3797432372" ref="rivercentre-event-4"/>
+    <file name="u2607-4.png" crc="482113103" ref="rivercentre-event-4"/>
+    <file name="u2598-4.png" crc="222799909" ref="rivercentre-event-4"/>
+    <file name="u2592-4.png" crc="4159866449" ref="rivercentre-event-4"/>
+    <file name="u2591-4.png" crc="3969478722" ref="rivercentre-event-4"/>
+    <file name="u2604-4.png" crc="482751880" ref="rivercentre-event-4"/>
+    <file name="u2611.png" crc="3966958725" ref="rivercentre-event-4"/>
+    <file name="u2611-r.png" crc="3966958725" ref="rivercentre-event-4"/>
+    <file name="u2693-4.png" crc="4172863793" ref="target-field-event-2"/>
+    <file name="u2698-4.png" crc="4162486792" ref="target-field-event-2"/>
+    <file name="u2700-4.png" crc="363294367" ref="target-field-event-2"/>
+    <file name="u2692-4.png" crc="381501386" ref="target-field-event-2"/>
+    <file name="u2704-4.png" crc="168211242" ref="target-field-event-2"/>
+    <file name="targetfield-crop-u2690.jpg" crc="154531230" seo="true" ref="target-field-event-2">
+      <caption webpage="target-field-event-2" alt=""/>
+    </file>
+    <file name="u2701-4.png" crc="264592201" ref="target-field-event-2"/>
+    <file name="u2696-4.png" crc="372682821" ref="target-field-event-2"/>
+    <file name="u2695-4.png" crc="3944877337" ref="target-field-event-2"/>
+    <file name="u2706-4.png" crc="193954742" ref="target-field-event-2"/>
+    <file name="u2702-4.png" crc="3832489471" ref="target-field-event-2"/>
+    <file name="u2689-11.png" crc="4082030357" ref="target-field-event-2"/>
+    <file name="u2687.png" crc="3966958725" ref="target-field-event-2"/>
+    <file name="u2687-r.png" crc="3966958725" ref="target-field-event-2"/>
+    <file name="u2747-4.png" crc="4172863793" ref="target-field-event-3"/>
+    <file name="u2749-4.png" crc="4162486792" ref="target-field-event-3"/>
+    <file name="u2745-4.png" crc="363294367" ref="target-field-event-3"/>
+    <file name="u2757-4.png" crc="381501386" ref="target-field-event-3"/>
+    <file name="u2756-4.png" crc="168211242" ref="target-field-event-3"/>
+    <file name="targetfield-crop-u2750.jpg" crc="154531230" seo="true" ref="target-field-event-3">
+      <caption webpage="target-field-event-3" alt=""/>
+    </file>
+    <file name="u2743-4.png" crc="264592201" ref="target-field-event-3"/>
+    <file name="u2746-4.png" crc="372682821" ref="target-field-event-3"/>
+    <file name="u2739-4.png" crc="14028862" ref="target-field-event-3"/>
+    <file name="u2755-4.png" crc="36862601" ref="target-field-event-3"/>
+    <file name="u2744-4.png" crc="359648187" ref="target-field-event-3"/>
+    <file name="u2753-10.png" crc="3934941794" ref="target-field-event-3"/>
+    <file name="u2759.png" crc="3966958725" ref="target-field-event-3"/>
+    <file name="u2759-r.png" crc="3966958725" ref="target-field-event-3"/>
+    <file name="u2771-4.png" crc="4172863793" ref="target-field-event-4"/>
+    <file name="u2772-4.png" crc="4162486792" ref="target-field-event-4"/>
+    <file name="u2784-4.png" crc="363294367" ref="target-field-event-4"/>
+    <file name="u2780-4.png" crc="381501386" ref="target-field-event-4"/>
+    <file name="u2778-4.png" crc="168211242" ref="target-field-event-4"/>
+    <file name="targetfield-crop-u2789.jpg" crc="154531230" seo="true" ref="target-field-event-4">
+      <caption webpage="target-field-event-4" alt=""/>
+    </file>
+    <file name="u2782-4.png" crc="264592201" ref="target-field-event-4"/>
+    <file name="u2788-4.png" crc="372682821" ref="target-field-event-4"/>
+    <file name="u2777-4.png" crc="464624114" ref="target-field-event-4"/>
+    <file name="u2785-4.png" crc="36862601" ref="target-field-event-4"/>
+    <file name="u2786-4.png" crc="3888561843" ref="target-field-event-4"/>
+    <file name="u2773-13.png" crc="165224163" ref="target-field-event-4"/>
+    <file name="u2775.png" crc="3966958725" ref="target-field-event-4"/>
+    <file name="u2775-r.png" crc="3966958725" ref="target-field-event-4"/>
+    <file name="u2826-4.png" crc="4172863793" ref="music"/>
+    <file name="u2836-4.png" crc="4162486792" ref="music"/>
+    <file name="u2862-4.png" crc="496016413" ref="music"/>
+    <file name="u2842-4.png" crc="381501386" ref="music"/>
+    <file name="u2831-4.png" crc="168211242" ref="music"/>
+    <file name="u2854-4.png" crc="412371841" ref="music"/>
+    <file name="u2846-4.png" crc="308536078" ref="music"/>
+    <file name="u3604-4.png" crc="3925029025" ref="music"/>
+    <file name="u3603-4.png" crc="193954742" ref="music"/>
+    <file name="u2838-4.png" crc="4083390742" ref="music"/>
+    <file name="u2847-4.png" crc="3859542671" ref="music"/>
+    <file name="u2841.png" crc="4213028434" ref="music"/>
+    <file name="u2841-r.png" crc="4213028434" ref="music"/>
+    <file name="u3606-4.png" crc="391090460" ref="music"/>
+    <file name="u3607-4.png" crc="230648697" ref="music"/>
+    <file name="u3609.png" crc="4213028434" ref="music"/>
+    <file name="u3609-r.png" crc="4213028434" ref="music"/>
+    <file name="u2995-4.png" crc="4172863793" ref="sports"/>
+    <file name="u3009-4.png" crc="4162486792" ref="sports"/>
+    <file name="u3021-4.png" crc="37293591" ref="sports"/>
+    <file name="u3002-4.png" crc="381501386" ref="sports"/>
+    <file name="u3000-4.png" crc="168211242" ref="sports"/>
+    <file name="u2988-4.png" crc="308536078" ref="sports"/>
+    <file name="u2994-4.png" crc="3811588326" ref="sports"/>
+    <file name="u3025-4.png" crc="62134299" ref="sports"/>
+    <file name="u3006-4.png" crc="4244596045" ref="sports"/>
+    <file name="u3008.png" crc="4213028434" ref="sports"/>
+    <file name="u3008-r.png" crc="4213028434" ref="sports"/>
+    <file name="u3068-4.png" crc="424637497" ref="film"/>
+    <file name="u3045-4.png" crc="381501386" ref="film"/>
+    <file name="u3033-4.png" crc="168211242" ref="film"/>
+    <file name="u3063-4.png" crc="4172863793" ref="film"/>
+    <file name="u3044-4.png" crc="4162486792" ref="film"/>
+    <file name="u3736-4.png" crc="59765090" ref="film"/>
+    <file name="u3192-4.png" crc="4172863793" ref="theater"/>
+    <file name="u3197-4.png" crc="4162486792" ref="theater"/>
+    <file name="u3204-4.png" crc="3972672926" ref="theater"/>
+    <file name="u3188-4.png" crc="381501386" ref="theater"/>
+    <file name="u3198-4.png" crc="168211242" ref="theater"/>
+    <file name="u3800-4.png" crc="59765090" ref="theater"/>
+    <file name="u3289-4.png" crc="4172863793" ref="specialty"/>
+    <file name="u3297-4.png" crc="4162486792" ref="specialty"/>
+    <file name="u3275-4.png" crc="534234216" ref="specialty"/>
+    <file name="u3293-4.png" crc="381501386" ref="specialty"/>
+    <file name="u3272-4.png" crc="168211242" ref="specialty"/>
+    <file name="u3739-4.png" crc="59765090" ref="specialty"/>
+    <file name="u3423-4.png" crc="4172863793" ref="xcel-energy-center-event-2"/>
+    <file name="u3425-4.png" crc="4162486792" ref="xcel-energy-center-event-2"/>
+    <file name="u3427-4.png" crc="363294367" ref="xcel-energy-center-event-2"/>
+    <file name="u3430-4.png" crc="381501386" ref="xcel-energy-center-event-2"/>
+    <file name="u3419-4.png" crc="168211242" ref="xcel-energy-center-event-2"/>
+    <file name="u3431-4.png" crc="402485983" ref="xcel-energy-center-event-2"/>
+    <file name="u3420-4.png" crc="4240538575" ref="xcel-energy-center-event-2"/>
+    <file name="u3434-4.png" crc="19106721" ref="xcel-energy-center-event-2"/>
+    <file name="u3424-4.png" crc="308536078" ref="xcel-energy-center-event-2"/>
+    <file name="u3422-4.png" crc="3811588326" ref="xcel-energy-center-event-2"/>
+    <file name="u3414-4.png" crc="4188426076" ref="xcel-energy-center-event-2"/>
+    <file name="u3418.png" crc="3966958725" ref="xcel-energy-center-event-2"/>
+    <file name="u3418-r.png" crc="3966958725" ref="xcel-energy-center-event-2"/>
+    <file name="u3461-4.png" crc="4172863793" ref="xcel-energy-center-event-3"/>
+    <file name="u3447-4.png" crc="4162486792" ref="xcel-energy-center-event-3"/>
+    <file name="u3445-4.png" crc="363294367" ref="xcel-energy-center-event-3"/>
+    <file name="u3459-4.png" crc="381501386" ref="xcel-energy-center-event-3"/>
+    <file name="u3444-4.png" crc="168211242" ref="xcel-energy-center-event-3"/>
+    <file name="u3446-4.png" crc="402485983" ref="xcel-energy-center-event-3"/>
+    <file name="u3443-4.png" crc="4240538575" ref="xcel-energy-center-event-3"/>
+    <file name="u3456-4.png" crc="445549009" ref="xcel-energy-center-event-3"/>
+    <file name="u3448-4.png" crc="193954742" ref="xcel-energy-center-event-3"/>
+    <file name="u3449-4.png" crc="150189136" ref="xcel-energy-center-event-3"/>
+    <file name="u3452-4.png" crc="3947993719" ref="xcel-energy-center-event-3"/>
+    <file name="u3458.png" crc="3966958725" ref="xcel-energy-center-event-3"/>
+    <file name="u3458-r.png" crc="3966958725" ref="xcel-energy-center-event-3"/>
+    <file name="u3534-4.png" crc="4172863793" ref="xcel-energy-center-event-4"/>
+    <file name="u3535-4.png" crc="4162486792" ref="xcel-energy-center-event-4"/>
+    <file name="u3531-4.png" crc="363294367" ref="xcel-energy-center-event-4"/>
+    <file name="u3542-4.png" crc="381501386" ref="xcel-energy-center-event-4"/>
+    <file name="u3537-4.png" crc="168211242" ref="xcel-energy-center-event-4"/>
+    <file name="u3528-4.png" crc="402485983" ref="xcel-energy-center-event-4"/>
+    <file name="u3527-4.png" crc="4240538575" ref="xcel-energy-center-event-4"/>
+    <file name="u3529-4.png" crc="4076260219" ref="xcel-energy-center-event-4"/>
+    <file name="u3523-4.png" crc="193954742" ref="xcel-energy-center-event-4"/>
+    <file name="u3536-4.png" crc="273827824" ref="xcel-energy-center-event-4"/>
+    <file name="u3526-4.png" crc="3947993719" ref="xcel-energy-center-event-4"/>
+    <file name="u3539.png" crc="3966958725" ref="xcel-energy-center-event-4"/>
+    <file name="u3539-r.png" crc="3966958725" ref="xcel-energy-center-event-4"/>
+    <file name="u3667-4.png" crc="4172863793" ref="music-event-2"/>
+    <file name="u3664-4.png" crc="4162486792" ref="music-event-2"/>
+    <file name="u3669-4.png" crc="363294367" ref="music-event-2"/>
+    <file name="u3662-4.png" crc="381501386" ref="music-event-2"/>
+    <file name="u3674-4.png" crc="168211242" ref="music-event-2"/>
+    <file name="u3658-4.png" crc="4025255620" ref="music-event-2"/>
+    <file name="u3672-4.png" crc="372682821" ref="music-event-2"/>
+    <file name="u3666-4.png" crc="4041071132" ref="music-event-2"/>
+    <file name="u3663-4.png" crc="193954742" ref="music-event-2"/>
+    <file name="u3676-4.png" crc="3925029025" ref="music-event-2"/>
+    <file name="u3665-4.png" crc="3969011366" ref="music-event-2"/>
+    <file name="u3677-6.png" crc="70206029" ref="music-event-2"/>
+    <file name="u3657.png" crc="3966958725" ref="music-event-2"/>
+    <file name="u3657-r.png" crc="3966958725" ref="music-event-2"/>
+    <file name="u3722-4.png" crc="4172863793" ref="music-event-1"/>
+    <file name="u3724-4.png" crc="4162486792" ref="music-event-1"/>
+    <file name="u3726-4.png" crc="363294367" ref="music-event-1"/>
+    <file name="u3729-4.png" crc="381501386" ref="music-event-1"/>
+    <file name="u3718-4.png" crc="168211242" ref="music-event-1"/>
+    <file name="u3730-4.png" crc="402485983" ref="music-event-1"/>
+    <file name="u3719-4.png" crc="4240538575" ref="music-event-1"/>
+    <file name="u3733-4.png" crc="236595709" ref="music-event-1"/>
+    <file name="u3723-4.png" crc="308536078" ref="music-event-1"/>
+    <file name="u3721-4.png" crc="412371841" ref="music-event-1"/>
+    <file name="u3717.png" crc="3966958725" ref="music-event-1"/>
+    <file name="u3717-r.png" crc="3966958725" ref="music-event-1"/>
+    <file name="u3769-4.png" crc="4172863793" ref="sports-event-1"/>
+    <file name="u3755-4.png" crc="4162486792" ref="sports-event-1"/>
+    <file name="u3753-4.png" crc="363294367" ref="sports-event-1"/>
+    <file name="u3767-4.png" crc="381501386" ref="sports-event-1"/>
+    <file name="u3752-4.png" crc="168211242" ref="sports-event-1"/>
+    <file name="u3754-4.png" crc="402485983" ref="sports-event-1"/>
+    <file name="u3751-4.png" crc="4240538575" ref="sports-event-1"/>
+    <file name="u3764-4.png" crc="19106721" ref="sports-event-1"/>
+    <file name="u3756-4.png" crc="308536078" ref="sports-event-1"/>
+    <file name="u3757-4.png" crc="3811588326" ref="sports-event-1"/>
+    <file name="u3760-4.png" crc="4188426076" ref="sports-event-1"/>
+    <file name="u3766.png" crc="3966958725" ref="sports-event-1"/>
+    <file name="u3766-r.png" crc="3966958725" ref="sports-event-1"/>
+    <file name="soundwave.png" crc="22356699" seo="true" ref="home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="evnts_mainpage_image-crop-u3839.jpg" crc="3980653050" seo="true" ref="home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="u3858-4.png" crc="3824215735" ref="home"/>
+    <file name="u3862.png" crc="3800556173" ref="home"/>
+    <file name="u3862-r.png" crc="3966958725" ref="home"/>
+    <file name="u3867-4.png" crc="4117079686" ref="first-ave"/>
+    <file name="u3870-4.png" crc="4247559671" ref="first-ave"/>
+    <file name="u3873-4.png" crc="4117079686" ref="first-ave"/>
+    <file name="u3876-4.png" crc="4117079686" ref="first-ave"/>
+    <file name="u3913-4-a.png" crc="498874907" ref="events"/>
+    <file name="u3901-4.png" crc="4117079686" ref="first-ave-event"/>
+    <file name="u3889-4.png" crc="4117079686" ref="rivercentre"/>
+    <file name="u3892-4.png" crc="4247559671" ref="rivercentre"/>
+    <file name="u3895-4.png" crc="355515637" ref="rivercentre"/>
+    <file name="u3898-4.png" crc="205374485" ref="rivercentre"/>
+    <file name="xcel2.jpg" crc="48460761" seo="true" ref="xcel-energy-center-event:xcel-energy-center-event-2:xcel-energy-center-event-3:xcel-energy-center-event-4:music-event-1">
+      <caption webpage="xcel-energy-center-event-3" alt=""/>
+      <caption webpage="xcel-energy-center-event" alt=""/>
+      <caption webpage="music-event-1" alt=""/>
+      <caption webpage="xcel-energy-center-event-4" alt=""/>
+      <caption webpage="xcel-energy-center-event-2" alt=""/>
+      <caption webpage="sports-event-1" alt=""/>
+    </file>
+    <file name="u3904-4.png" crc="4247559671" ref="first-ave-event-2"/>
+    <file name="u3907-4.png" crc="4117079686" ref="first-ave-event-3"/>
+    <file name="u3910-4.png" crc="4117079686" ref="first-ave-event-4"/>
+    <file name="u3916-4.png" crc="4167262015" ref="music"/>
+    <file name="u3919-4.png" crc="4117079686" ref="music"/>
+    <file name="u3996-4.png" crc="68567075" ref="first-ave"/>
+    <file name="ic_arrow_drop_down_white_48pt_3x.png" crc="19090926" seo="true" ref="first-ave:target-field:rivercentre:xcel-energy-center">
+      <caption webpage="xcel-energy-center" alt=""/>
+      <caption webpage="rivercentre" alt=""/>
+      <caption webpage="target-field" alt=""/>
+      <caption webpage="first-ave" alt=""/>
+    </file>
+    <file name="u4005-4.png" crc="4128225912" ref="target-field"/>
+    <file name="u4114-4.png" crc="4167262015" ref="target-field"/>
+    <file name="u4117-4.png" crc="4184861748" ref="target-field"/>
+    <file name="u4120-4.png" crc="4184861748" ref="target-field"/>
+    <file name="u4123-4.png" crc="4184861748" ref="target-field"/>
+    <file name="u4008-4.png" crc="108111460" ref="venues"/>
+    <file name="u4014-4.png" crc="4135940942" ref="venues"/>
+    <file name="u4020-4.png" crc="323442415" ref="venues"/>
+    <file name="u4029-4.png" crc="3956105596" ref="venues"/>
+    <file name="u3999-4.png" crc="280656037" ref="rivercentre"/>
+    <file name="u4002-4.png" crc="227625495" ref="xcel-energy-center"/>
+    <file name="u4102-4.png" crc="4167262015" ref="xcel-energy-center"/>
+    <file name="u4105-4.png" crc="4247559671" ref="xcel-energy-center"/>
+    <file name="u4108-4.png" crc="4117079686" ref="xcel-energy-center"/>
+    <file name="u4111-4.png" crc="265249430" ref="xcel-energy-center"/>
+    <file name="u4126-4.png" crc="4117079686" ref="rivercentre-event"/>
+    <file name="u4138-4.png" crc="4167262015" ref="target-field-event"/>
+    <file name="u1835-7.png" crc="3806561276" ref="xcel-energy-center-event"/>
+    <file name="u4150-4.png" crc="4167262015" ref="xcel-energy-center-event"/>
+    <file name="u4129-4.png" crc="4247559671" ref="rivercentre-event-2"/>
+    <file name="u4132-4.png" crc="355515637" ref="rivercentre-event-3"/>
+    <file name="u4135-4.png" crc="205374485" ref="rivercentre-event-4"/>
+    <file name="u4141-4.png" crc="4184861748" ref="target-field-event-2"/>
+    <file name="u4144-4.png" crc="4184861748" ref="target-field-event-3"/>
+    <file name="u4147-4.png" crc="4184861748" ref="target-field-event-4"/>
+    <file name="u4168-4.png" crc="4247559671" ref="sports"/>
+    <file name="u4153-4.png" crc="4247559671" ref="xcel-energy-center-event-2"/>
+    <file name="u4156-4.png" crc="4117079686" ref="xcel-energy-center-event-3"/>
+    <file name="u4159-4.png" crc="265249430" ref="xcel-energy-center-event-4"/>
+    <file name="u4165-4.png" crc="4117079686" ref="music-event-2"/>
+    <file name="u3713-7.png" crc="3875825513" ref="music-event-1"/>
+    <file name="u4162-4.png" crc="4167262015" ref="music-event-1"/>
+    <file name="u4060-4.png" crc="4059116201" ref="error"/>
+    <file name="u4055-4.png" crc="381501386" ref="error"/>
+    <file name="u4063-4.png" crc="168211242" ref="error"/>
+    <file name="u4065-4.png" crc="4172863793" ref="error"/>
+    <file name="u4056-4.png" crc="4162486792" ref="error"/>
+    <file name="u4062-4.png" crc="4002945840" ref="error"/>
+    <file name="orpheum.jpg" crc="321334776" seo="true" ref="nearby">
+      <caption webpage="nearby" alt=""/>
+    </file>
+    <file name="u4239-4.png" crc="308536078" ref="nearby"/>
+    <file name="u4240-4.png" crc="3811588326" ref="nearby"/>
+    <file name="u4242-4.png" crc="62134299" ref="nearby"/>
+    <file name="u4246-4.png" crc="4247559671" ref="nearby"/>
+    <file name="u4243-4.png" crc="4244596045" ref="nearby"/>
+    <file name="u4245.png" crc="4213028434" ref="nearby"/>
+    <file name="u4245-r.png" crc="4213028434" ref="nearby"/>
+    <file name="u4290-4.png" crc="3919261813" ref="index"/>
+    <file name="u4347-4.png" crc="4013479536" ref="check-out"/>
+    <file name="u4344-4.png" crc="4013479536" ref="payment-success"/>
+  </folder>
+  <file name="index.html" crc="4094372618" seo="true" mt="1493946444041" redirect="true"/>
+  <file name="first-ave.html" crc="320739199" seo="true" mt="1493826633830" redirect="true"/>
+  <file name="target-field.html" crc="33580940" seo="true" mt="1493656324989" redirect="true"/>
+  <file name="venues.html" crc="3826833570" seo="true" mt="1493826948509" redirect="true"/>
+  <file name="events.html" crc="4051229264" seo="true" mt="1493658966741" redirect="true"/>
+  <file name="first-ave-event.html" crc="10065669" seo="true" mt="1493658966738" redirect="true"/>
+  <file name="rivercentre.html" crc="3798728066" seo="true" mt="1493655863311" redirect="true"/>
+  <file name="xcel-energy-center.html" crc="482114167" seo="true" mt="1493827770660" redirect="true"/>
+  <file name="check-out.html" crc="4018649555" seo="true" mt="1493827549357" redirect="true"/>
+  <file name="rivercentre-event.html" crc="379731227" seo="true" mt="1493658966739" redirect="true"/>
+  <file name="target-field-event.html" crc="509819720" seo="true" mt="1493658966772" redirect="true"/>
+  <file name="xcel-energy-center-event.html" crc="358574571" seo="true" mt="1493658966757" redirect="true"/>
+  <file name="nearby.html" crc="4073678860" seo="true" mt="1493658966779" redirect="true"/>
+  <file name="search.html" crc="3922697249" seo="true" mt="1493658966782" redirect="true"/>
+  <file name="payment.html" crc="420144012" seo="true" mt="1493826584617" redirect="true"/>
+  <file name="payment-success.html" crc="222237733" seo="true" mt="1493826696950" redirect="true"/>
+  <file name="first-ave-event-2.html" crc="65509591" seo="true" mt="1493658966740" redirect="true"/>
+  <file name="first-ave-event-3.html" crc="64663649" seo="true" mt="1493658966733" redirect="true"/>
+  <file name="first-ave-event-4.html" crc="114607916" seo="true" mt="1493658966761" redirect="true"/>
+  <file name="rivercentre-event-2.html" crc="4167245570" seo="true" mt="1493658966749" redirect="true"/>
+  <file name="rivercentre-event-3.html" crc="4102062279" seo="true" mt="1493658966771" redirect="true"/>
+  <file name="rivercentre-event-4.html" crc="4244929637" seo="true" mt="1493658966746" redirect="true"/>
+  <file name="target-field-event-2.html" crc="239482239" seo="true" mt="1493658966763" redirect="true"/>
+  <file name="target-field-event-3.html" crc="31001924" seo="true" mt="1493658966752" redirect="true"/>
+  <file name="target-field-event-4.html" crc="4192846351" seo="true" mt="1493658966766" redirect="true"/>
+  <file name="music.html" crc="207163158" seo="true" mt="1493827017402" redirect="true"/>
+  <file name="sports.html" crc="507209346" seo="true" mt="1493827056235" redirect="true"/>
+  <file name="film.html" crc="3861805142" seo="true" mt="1493827086612" redirect="true"/>
+  <file name="theater.html" crc="229064364" seo="true" mt="1493827116812" redirect="true"/>
+  <file name="specialty.html" crc="524995721" seo="true" mt="1493827129399" redirect="true"/>
+  <file name="xcel-energy-center-event-2.html" crc="87981965" seo="true" mt="1493658966745" redirect="true"/>
+  <file name="xcel-energy-center-event-3.html" crc="4074366027" seo="true" mt="1493658966759" redirect="true"/>
+  <file name="xcel-energy-center-event-4.html" crc="4079639093" seo="true" mt="1493658966770" redirect="true"/>
+  <file name="music-event-2.html" crc="4113420549" seo="true" mt="1493658966773" redirect="true"/>
+  <file name="music-event-1.html" crc="50463199" seo="true" mt="1493658966783" redirect="true"/>
+  <file name="sports-event-1.html" crc="4120054430" seo="true" mt="1493826787718" redirect="true"/>
+  <file name="error.html" crc="286773493" seo="true" mt="1493826877773" redirect="true"/>
+  <file name="home.html" crc="3902896034" seo="true" mt="1493658966787" redirect="true"/>
+</manifest>
