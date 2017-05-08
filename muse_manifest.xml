@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="evnts.com" resolutions="1x" timestamp="1493946453703">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="evnts.com" resolutions="1x" timestamp="1494272565362">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="xcel-energy-center.css" crc="4027671012" ref="xcel-energy-center"/>
@@ -14,7 +14,7 @@
     <file name="target-field.css" crc="3972182107" ref="target-field"/>
     <file name="first-ave.css" crc="4273402890" ref="first-ave"/>
     <file name="venues.css" crc="3851357851" ref="venues"/>
-    <file name="check-out.css" crc="342063125" ref="check-out"/>
+    <file name="check-out.css" crc="4175731646" ref="check-out"/>
     <file name="search.css" crc="4113328772" ref="search"/>
     <file name="rivercentre.css" crc="3998434793" ref="rivercentre"/>
     <file name="music-event-1.css" crc="4206975205" ref="music-event-1"/>
@@ -142,16 +142,16 @@
     <file name="u1090-4.png" crc="381501386" ref="venues"/>
     <file name="u1091-4.png" crc="168211242" ref="venues"/>
     <file name="music_tab_2.jpg" crc="321330481" seo="true" ref="venues:check-out:payment:payment-success:music:sports:film:theater:specialty:error">
-      <caption webpage="payment-success" alt=""/>
-      <caption webpage="music" alt=""/>
-      <caption webpage="venues" alt=""/>
-      <caption webpage="sports" alt=""/>
-      <caption webpage="error" alt=""/>
-      <caption webpage="payment" alt=""/>
       <caption webpage="specialty" alt=""/>
+      <caption webpage="sports" alt=""/>
       <caption webpage="theater" alt=""/>
+      <caption webpage="music" alt=""/>
       <caption webpage="check-out" alt=""/>
       <caption webpage="film" alt=""/>
+      <caption webpage="error" alt=""/>
+      <caption webpage="payment-success" alt=""/>
+      <caption webpage="payment" alt=""/>
+      <caption webpage="venues" alt=""/>
     </file>
     <file name="u1160-4.png" crc="38297337" ref="venues"/>
     <file name="u1473-4.png" crc="344789158" ref="venues"/>
@@ -272,8 +272,6 @@
     <file name="u1979-4.png" crc="428474783" ref="check-out"/>
     <file name="u1984-4.png" crc="216475798" ref="check-out"/>
     <file name="u1987-8.png" crc="113120944" ref="check-out"/>
-    <file name="u1991.png" crc="4136838781" ref="check-out"/>
-    <file name="u1991-r.png" crc="4136838781" ref="check-out"/>
     <file name="u1999-4.png" crc="470713515" ref="check-out"/>
     <file name="u2002-4.png" crc="3773772746" ref="check-out"/>
     <file name="u2005-4.png" crc="444656132" ref="check-out"/>
@@ -708,7 +706,7 @@
   <file name="first-ave-event.html" crc="10065669" seo="true" mt="1493658966738" redirect="true"/>
   <file name="rivercentre.html" crc="3798728066" seo="true" mt="1493655863311" redirect="true"/>
   <file name="xcel-energy-center.html" crc="482114167" seo="true" mt="1493827770660" redirect="true"/>
-  <file name="check-out.html" crc="4018649555" seo="true" mt="1493827549357" redirect="true"/>
+  <file name="check-out.html" crc="208858359" seo="true" mt="1494272553638" redirect="true"/>
   <file name="rivercentre-event.html" crc="379731227" seo="true" mt="1493658966739" redirect="true"/>
   <file name="target-field-event.html" crc="509819720" seo="true" mt="1493658966772" redirect="true"/>
   <file name="xcel-energy-center-event.html" crc="358574571" seo="true" mt="1493658966757" redirect="true"/>
